@@ -1,6 +1,8 @@
 # Batcar
 Project automated car [Computer Architecture - Politecnico di Torino]
 
+
+```
 Macro Statistics
 # RAMs                                                 : 4
  64x64-bit single-port distributed Read Only RAM       : 1
@@ -32,3 +34,5 @@ Macro Statistics
  6-bit 2-to-1 multiplexer                              : 1
  8-bit 8-to-1 multiplexer                              : 1
 # FSMs                                                 : 1
+
+```
