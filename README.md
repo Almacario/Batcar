@@ -1,5 +1,11 @@
-# Batcar
-Project automated car [Computer Architecture - Politecnico di Torino]
+# Batcar 
+Project automated car FPGA [Computer Architecture - Politecnico di Torino - A.Y. 2015-2016]
+
+Board: Nexys 4 Artix 7 by Digilent.
+
+Contacts: 
+Alberto: alberto.macario@hotmail.it
+Chiara: chiara.relandini@gmail.com
 
 
 ```
