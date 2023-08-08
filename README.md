@@ -1,8 +1,6 @@
 # Batcar 
-[Youtube Video](https://www.youtube.com/watch?v=u6WbgwYkgD8&t=2s)
 
-Video Presentation
-![](batcar_video.mp4)
+[![Watch the video](https://img.youtube.com/vi/u6WbgwYkgD8/hqdefault.jpg)](https://www.youtube.com/watch?v=u6WbgwYkgD8&t=2s)
 
 Project automated car FPGA [Computer Architecture - Politecnico di Torino - A.Y. 2016-2017]
 
